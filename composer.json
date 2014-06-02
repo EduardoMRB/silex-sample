@@ -1,0 +1,13 @@
+{
+  "require": {
+    "silex/silex": "~1.2",
+    "doctrine/common": "2.4.*",
+    "doctrine/dbal": "2.4.*",
+    "doctrine/orm": "2.4.*",
+    "twig/twig": ">=1.8,<2.0-dev"
+  },
+
+  "autoload": {
+    "psr-0": { "": "src/" }
+  }
+}
